@@ -6,6 +6,7 @@ public class Up {
 
 		System.out.println("It's too humid");
 		System.out.println("´þ´Ù");
+        System.out.println("reset");
 	}
 
 }
